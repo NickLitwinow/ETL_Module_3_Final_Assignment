@@ -52,6 +52,7 @@ Process finished with exit code 0
 ```
 
 Скриншоты примеров работы:
+
 <img width="627" alt="Screenshot 2025-03-16 at 20 51 20" src="https://github.com/user-attachments/assets/bed4d504-e9a9-4463-9892-f146871f8e4b" />
 
 <img width="1440" alt="Screenshot 2025-03-16 at 20 48 21" src="https://github.com/user-attachments/assets/6361f094-4c83-49d7-8813-52c684c4bb2b" />
