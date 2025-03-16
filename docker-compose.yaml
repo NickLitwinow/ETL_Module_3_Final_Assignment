@@ -26,7 +26,6 @@ services:
     ports:
       - "6379:6379"
 
-  # Инициализация базы Airflow (выполняется единожды для создания метаданных и пользователя)
   airflow-init:
     build: ./airflow
     container_name: airflow-init
