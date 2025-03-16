@@ -65,7 +65,7 @@ CREATE TABLE IF NOT EXISTS search_queries (
     results_count INTEGER
 );
 
--- Пример создания аналитической витрины для активности пользователей
+-- Создание аналитической витрины для активности пользователей
 DROP TABLE IF EXISTS user_activity_mart;
 CREATE TABLE user_activity_mart AS
 SELECT
@@ -76,7 +76,7 @@ SELECT
 FROM user_sessions
 GROUP BY user_id;
 
--- Пример создания аналитической витрины для обращений в поддержку
+-- Создание аналитической витрины для обращений в поддержку
 DROP TABLE IF EXISTS support_tickets_mart;
 CREATE TABLE support_tickets_mart AS
 SELECT
