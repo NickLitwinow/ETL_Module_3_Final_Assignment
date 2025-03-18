@@ -63,7 +63,7 @@ Process finished with exit code 0
 
 <img width="1440" alt="Screenshot 2025-03-16 at 20 49 29" src="https://github.com/user-attachments/assets/0733b3f9-33ea-4b3b-8ec7-fb17c5fd312a" />
 
-<img width="1439" alt="Screenshot 2025-03-16 at 20 49 54" src="https://github.com/user-attachments/assets/e2d7f4e1-6533-4d0e-93b9-2ad7c34d993c" />
+<img width="1440" alt="Screenshot 2025-03-18 at 14 21 25" src="https://github.com/user-attachments/assets/15a4aa2d-a1a7-46a7-8df0-a503a34dc72c" />
 
 <img width="1148" alt="Screenshot 2025-03-16 at 20 50 44" src="https://github.com/user-attachments/assets/b22fcb9c-c57b-46e2-be22-5be71fe4fa9f" />
 
